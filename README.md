@@ -1,6 +1,6 @@
 
 # A Tribute Page.
-*An amazing tribute page that implements the dark and day mode when users clikcs their preferred option.*
+*An amazing tribute page that implements the dark and day mode when users clicks their preferred option.*
 
 ## Tools and Technologies used:
 - React.js.
