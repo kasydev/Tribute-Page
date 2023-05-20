@@ -1,5 +1,5 @@
 
-# A Tribute Pag.
+# A Tribute Page.
 *An amazing tribute page that implements the dark and day mode when users clikcs their preferred option.*
 
 ## Tools and Technologies used:
