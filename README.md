@@ -7,6 +7,8 @@
 - Reac-Icons.
 - TailwindCSS.
 - JavaScript.
+- Vercel 
+Live Website => https://tribute-page-react.vercel.app/
 
 ### Screenshots.
 
