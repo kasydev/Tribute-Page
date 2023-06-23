@@ -4,7 +4,7 @@
 
 ## Tools and Technologies used:
 - React.js.
-- Reac-Icons.
+- React-Icons.
 - TailwindCSS.
 - JavaScript.
 - Vercel 
